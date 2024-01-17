@@ -76,5 +76,5 @@ GVA's policy excludes the collection of certain personal demographic characteris
 
 This project exemplified a comprehensive approach to data analysis, blending technical acumen, analytical depth, and professional integrity to uncover meaningful insights into gun violence trends and their implications.
 
-## Visualizations for this project can be found on Tableau [here](https://public.tableau.com/app/profile/facundo.arakaki/viz/GunViolenceinUSAAnalysisAgeGroup/Story1?publish=yes)https://public.tableau.com/app/profile/facundo.arakaki/viz/GunViolenceinUSAAnalysisAgeGroup/Story1?publish=yes)
+### Visualizations for this project can be found on Tableau [here](ttps://public.tableau.com/app/profile/facundo.arakaki/viz/GunViolenceinUSAAnalysisAgeGroup/Story1?publish=yes)https://public.tableau.com/app/profile/facundo.arakaki/viz/GunViolenceinUSAAnalysisAgeGroup/Story1?publish=yes)
 
