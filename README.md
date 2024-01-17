@@ -21,9 +21,9 @@ What are the age characteristics of suspects in gun violence incidents?
 
 The dataset for this project is sourced from the Gun Violence Archive (GVA), a non-profit organization dedicated to providing public access to accurate information about gun-related violence in the United States. It encompasses detailed records of over 260,000 gun violence incidents from January 2014 to March 2017, including dates, locations, number of victims, and demographic data. The goal of disseminating this dataset is to empower data-driven analysis and enable informed discussions and research into gun violence trends for societal benefit.
 
-## 1) Source
+1) Source
 The dataset was obtained from Kaggle, which sourced the data from the Gun Violence Archive (GVA), a not-for-profit corporation established in 2013. GVA is dedicated to providing free online public access to accurate information about gun-related violence in the United States.
-## 2) Collection
+2) Collection
 The Gun Violence Archive collects data from over 7,500 law enforcement, media, government, and commercial sources daily. This effort aims to provide near-real-time data about the results of gun violence. GVA is an independent data collection and research group without affiliation to any advocacy organization.
 
 
