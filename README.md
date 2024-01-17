@@ -32,7 +32,44 @@ The primary limitations of this dataset include potential biases in reporting an
 5) **Ethics:**
 GVA's policy excludes the collection of certain personal demographic characteristics of victims or suspects, such as race, ethnicity, religious affiliation, political affiliation, income, education, marital status, sexual orientation, disability status, and psychiatric diagnosis. This policy is due to the unavailability of this information in near-real-time reports, privacy laws, and the irrelevance of these data points to the incident itself.
 
+## Skills Applied
+***
 
+Data Wrangling & Management
+
+    Mastered data manipulation techniques, including modifying data types, renaming columns for clarity, and using a data dictionary to decode variable meanings.
+    Demonstrated expertise in creating targeted dataframes, focusing on variables pertinent to gun violence such as victim count, suspect demographics, and incident frequencies.
+    Analyzed patterns in gun violence by evaluating the distribution and frequency of key variables.
+
+Data Quality & Consistency
+
+    Ensured data consistency by addressing mixed-type variables and standardizing formats.
+    Tackled missing values and duplicates diligently, maintaining the integrity and reliability of the gun violence dataset.
+
+Data Integration & Export
+
+    Successfully integrated multiple dataframes, assessing the integrity of the merged data using consistency checks.
+    Gained proficiency in exporting refined datasets in various formats for further analysis and archival purposes.
+
+Feature Engineering
+
+    Utilized advanced data manipulation techniques, including conditional logic, user-defined functions, and loops, to derive new variables relevant to gun violence analysis.
+    Employed the groupby() function to create summary statistics and gain deeper insights into the patterns of gun violence.
+
+Data Visualization & Insights
+
+    Developed insightful visualizations such as heatmaps, correlation scatter plots, and bar charts to elucidate trends and relationships in gun violence incidents.
+    Uncovered critical patterns and demographic profiles related to gun violence, including seasonal variations, geographic hotspots, and age-related trends.
+
+Professionalism & Reporting
+
+    Maintained high standards in data management, following best practices in coding, file organization, and documentation.
+    Utilized Python and its libraries (pandas, NumPy, seaborn, matplotlib) effectively within a Jupyter notebook environment for a comprehensive analysis workflow.
+    Conducted thorough data quality checks pre- and post-modifications to ensure accuracy and relevance.
+    Emphasized data ethics, particularly in handling sensitive information related to gun violence incidents.
+    Compiled a detailed report summarizing the methodology, findings, and strategic recommendations based on the analysis, accompanied by appropriate visualizations and data citations.
+
+This project exemplified a comprehensive approach to data analysis, blending technical acumen, analytical depth, and professional integrity to uncover meaningful insights into gun violence trends and their implications.
 
 
 
