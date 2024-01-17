@@ -5,7 +5,7 @@
 Our objective is to analyze gun violence incidents in the United States, focusing on their frequency over time, geographical distribution, and demographic profiles of victims and suspects. This analysis aims to uncover trends, seasonal variations, and state-specific patterns in gun violence, providing a data-driven perspective on an issue of critical national importance.
 
 ## Key Questions
-1, Trends in Gun Violence Over the Years: 
+1) Trends in Gun Violence Over the Years: 
 How has the frequency of gun violence incidents changed over the years?
 2. Seasonal Patterns in Gun Violence: 
 Are there any seasonal or monthly variations in gun violence incidents?
