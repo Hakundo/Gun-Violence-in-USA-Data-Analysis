@@ -25,6 +25,14 @@ The dataset for this project is sourced from the Gun Violence Archive (GVA), a n
   The dataset was obtained from Kaggle, which sourced the data from the Gun Violence Archive (GVA), a not-for-profit corporation established in 2013. GVA is dedicated to providing free online public access to accurate information about gun-related violence in the United States.
 2) **Collection:**
   The Gun Violence Archive collects data from over 7,500 law enforcement, media, government, and commercial sources daily. This effort aims to provide near-real-time data about the results of gun violence. GVA is an independent data collection and research group without affiliation to any advocacy organization.
+3) **Content:**
+The dataset records more than 260,000 gun violence incidents from January 2013 to March 2018. It contains detailed information about each incident, including the date, location (state, city/county, address, latitude, and longitude), number of people killed/injured, and specifics about the guns involved. The dataset is available in CSV format, facilitating analysis by data scientists and statisticians.
+4) **Limitations:**
+The primary limitations of this dataset include potential biases in reporting and the collection process. Since the data is aggregated from various sources, there may be inconsistencies in how incidents are reported or recorded. Additionally, some incidents might be underreported or not captured at all, leading to potential gaps in the data. Another limitation is the lack of certain demographic characteristics of victims or suspects due to privacy laws and law enforcement policies
+5) **Ethics:**
+GVA's policy excludes the collection of certain personal demographic characteristics of victims or suspects, such as race, ethnicity, religious affiliation, political affiliation, income, education, marital status, sexual orientation, disability status, and psychiatric diagnosis. This policy is due to the unavailability of this information in near-real-time reports, privacy laws, and the irrelevance of these data points to the incident itself.
+
+
 
 
 
