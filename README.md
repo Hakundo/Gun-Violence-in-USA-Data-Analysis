@@ -17,7 +17,7 @@ What are the age characteristics of victims in gun violence incidents?
 6_ Demographic Profile of Suspects: 
 What are the age characteristics of suspects in gun violence incidents?
 
-## Data Overview
+## Data
 
 The dataset for this project is sourced from the Gun Violence Archive (GVA), a non-profit organization dedicated to providing public access to accurate information about gun-related violence in the United States. It encompasses detailed records of over 260,000 gun violence incidents from January 2014 to March 2017, including dates, locations, number of victims, and demographic data. The goal of disseminating this dataset is to empower data-driven analysis and enable informed discussions and research into gun violence trends for societal benefit.
 
@@ -31,6 +31,12 @@ The dataset records more than 260,000 gun violence incidents from January 2013 t
 The primary limitations of this dataset include potential biases in reporting and the collection process. Since the data is aggregated from various sources, there may be inconsistencies in how incidents are reported or recorded. Additionally, some incidents might be underreported or not captured at all, leading to potential gaps in the data. Another limitation is the lack of certain demographic characteristics of victims or suspects due to privacy laws and law enforcement policies
 5) **Ethics:**
 GVA's policy excludes the collection of certain personal demographic characteristics of victims or suspects, such as race, ethnicity, religious affiliation, political affiliation, income, education, marital status, sexual orientation, disability status, and psychiatric diagnosis. This policy is due to the unavailability of this information in near-real-time reports, privacy laws, and the irrelevance of these data points to the incident itself.
+
+## Tools
+
+-   Python: Jupyter Notebook
+-   Excel
+-   Tableau
 
 ## Skills Applied
 
